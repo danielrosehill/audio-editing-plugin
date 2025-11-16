@@ -1,0 +1,32 @@
+{
+  "name": "audio-editing",
+  "description": "Claude Code plugin for audio editing, conversion, processing, and microphone management slash commands and agents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Daniel Rosehill",
+    "email": "public@danielrosehill.com",
+    "url": "https://danielrosehill.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielrosehill/audio-editing-plugin"
+  },
+  "commands": [
+    "./commands/conversion/convert-audio-format.md",
+    "./commands/editing/basic-voice-audio-edits.md",
+    "./commands/editing/extract-audio.md",
+    "./commands/editing/noise-reduction.md",
+    "./commands/editing/normalize-audio.md",
+    "./commands/editing/split-audio-by-silence.md",
+    "./commands/microphone/audio-mic-always-100.md",
+    "./commands/microphone/audio-set-as-default-mic.md",
+    "./commands/microphone/mic-always-100.md",
+    "./commands/system/optimize-pipewire.md",
+    "./commands/system/system-health-optimize-pipewire.md"
+  ],
+  "keywords": [
+    "media-editing",
+    "audio-editing"
+  ]
+}
