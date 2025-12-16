@@ -8,10 +8,7 @@
     "url": "https://danielrosehill.com"
   },
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/danielrosehill/audio-editing-plugin"
-  },
+  "repository": "https://github.com/danielrosehill/audio-editing-plugin",
   "commands": [
     "./commands/conversion/convert-audio-format.md",
     "./commands/editing/basic-voice-audio-edits.md",
