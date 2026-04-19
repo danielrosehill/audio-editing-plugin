@@ -1,7 +1,7 @@
 {
   "name": "audio-editing",
   "description": "Claude Code plugin for audio editing, conversion, processing, and microphone management slash commands and agents.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": {
     "name": "Daniel Rosehill",
     "email": "public@danielrosehill.com",
@@ -20,6 +20,9 @@
     "./commands/editing/noise-reduction.md",
     "./commands/editing/normalize-audio.md",
     "./commands/editing/split-audio-by-silence.md",
+    "./commands/eq/apply-eq.md",
+    "./commands/eq/recommend-eq.md",
+    "./commands/eq/save-eq.md",
     "./commands/install/install-noise-removal.md",
     "./commands/install/install-vad.md",
     "./commands/microphone/audio-mic-always-100.md",
