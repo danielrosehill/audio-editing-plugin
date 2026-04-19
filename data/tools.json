@@ -1,0 +1,5 @@
+{
+  "silero_vad": { "installed": false, "path": null, "version": null },
+  "deep_filter": { "installed": false, "path": null, "version": null },
+  "ffmpeg": { "installed": false, "path": null, "version": null }
+}
